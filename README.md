@@ -121,7 +121,7 @@ Based on the findings of this study, several areas for improvement have been ide
 For academic citations, please refer to this study as follows:
 
 ```
-Saygılı, A. & Ömer, A.   (2025). Enhancing Retinal Disease Detection with the Swin Transformer: A Comprehensive Comparative Analysis. The Visual Computer Journal.
+Saygılı, A. & Ömer, A.   (2025). Enhancing Retinal Disease Detection with the Swin Transformer: A Comprehensive Comparative Analysis. Machine Vision and Applications Journal.
 ```
 
 ---
